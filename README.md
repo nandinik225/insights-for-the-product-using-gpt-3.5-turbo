@@ -1,6 +1,6 @@
 # insights-for-the-product-using-gpt-3.5-turbo
 
-Welcome to GitHub repository! Here, I've employed the  GPT-3.5-Turbo model from OpenAI to do two exciting things:
+Welcome to the GitHub repository! Here, I've employed the  GPT-3.5-Turbo model from OpenAI in my local to do two exciting things:
 
 Extract Valuable Insights:
                          I've used this advanced AI model to analyze conversations and unearth valuable insights that can help improve products and services. By diving into discussions, we identify key areas for enhancement and innovation, helping businesses refine their offerings to better meet the needs of their users.
